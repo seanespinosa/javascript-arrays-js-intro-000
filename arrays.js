@@ -1,1 +1,1 @@
-var ChocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
+var ChocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
